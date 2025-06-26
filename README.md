@@ -65,7 +65,7 @@ python main.py
 ## 📌 Notes
 
 - Make sure your webcam is enabled.
-- Images of known faces must be placed in the `known_faces/` directory, each image named after the person it represents (e.g., `siddhesh.jpg`).
+- Images of known faces must be placed in the `known_faces/` directory, each image named after the person it represents.
 - Attendance will be logged in `attendancelog.csv`.
 
 ---
